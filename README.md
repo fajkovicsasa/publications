@@ -1,4 +1,4 @@
-# publications
+# publications / publikacije
 
 [ENGLISH]
 Some publications I've made mostly for beginner workshops. All text is written in Croatian.
