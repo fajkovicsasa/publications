@@ -14,12 +14,12 @@ Microsoft Word 2016
 ## Short scripts: / Kratke skripte:
 
 <b>Microsoft office</b>
-Word
-Excel
+* Microsoft Word
+* Microsoft Excel
 
 
 <b>Programming</b>
-C++
-C# + WinForms
-HTML / CSS
-JavaScript
+* C++
+* C# & WinForms
+* HTML / CSS
+* JavaScript
